@@ -1,6 +1,7 @@
 <?php 
 include 'head.php';
 
+
    if(isset($_REQUEST['guardar']))
     {
       //Observa que para indicar el tiempo de vida como usamos la función time(), 
