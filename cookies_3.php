@@ -38,7 +38,7 @@ echo'<form action="cookies_3.php" method="post">
 <td colspan="2"><input type="checkbox" name="guardar_clave" value="1"> Memorizar el usuario en este ordenador</td>
 </tr><tr>
 
-<td><input type="submit" value="Entrar"></td>
+<td><input type="submit" value="Entrar" name="entrar"></td>
 </tr>
 </table>
 </form> ';
