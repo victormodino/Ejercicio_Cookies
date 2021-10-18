@@ -52,6 +52,10 @@ print'
                 			<a href="cookies_4.php"><span class="l"></span><span class="r"></span><span class="t">Ejercicio 4</span></a>
                 			
                 		</li>
+                        <li>
+                			<a href="cookies_4.php"><span class="l"></span><span class="r"></span><span class="t">prueba</span></a>
+                			
+                		</li>
                 		
                 	</ul>
                 </div>
