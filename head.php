@@ -53,7 +53,7 @@ print'
                 			
                 		</li>
                         <li>
-                			<a href="cookies_4.php"><span class="l"></span><span class="r"></span><span class="t">prueba</span></a>
+                			<a href="cookies_prueba.php"><span class="l"></span><span class="r"></span><span class="t">prueba</span></a>
                 			
                 		</li>
                 		
