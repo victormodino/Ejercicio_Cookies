@@ -5,11 +5,11 @@ if (isset($_REQUEST['entrar']))//boton entrar
     {
         if (isset($_request['guardar_password']))
         {//definimos usuario y contraseña
-            $usuario=htmlspecialchars($_request['usuario']);
-            $password=htmlspecialchars($_request['password']);
+            $usuario=$_request['usuario'];
+            $password=$_request['password'];
             //a cada usuario y contraseña le damos un tiempo de duracion para guardar la cookie
-            setcookie("usuario",$usuario,time()+2424);
-            setcookie("password".$password,time()+2424);
+            setcookie("usuario",$_POST,time()+2424);
+            setcookie("password".$$_POST,time()+2424);
 // ahora ponemos que nos imprima las cookies de usuario y password
             echo $_COOKIE['usuario'], "<br>", $_COOKIE['password'];
 
